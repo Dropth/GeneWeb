@@ -1,0 +1,35 @@
+﻿html, body {
+	margin: 0;
+	padding: 10px;
+}
+body {
+	background-color: #FFC534;
+	font-family: Arial, sans-serif; 
+	font-size: 100%;
+}
+h1 { 
+	color: black; 
+	text-align: center;
+}
+h3 { 
+	color: black; 
+	padding-left: 15px;
+}
+td {
+	padding: 5px;
+	border: 1px solid black;
+	color: black; 
+}
+table {
+	border-collapse: collapse;
+}
+p {
+	color: black;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: white;
+	text-decoration: none;
+}

@@ -1,0 +1,33 @@
+﻿html, body {
+	margin: 0;
+	padding: 10px;
+}
+body {
+	background-color: #E3E5E0;
+	font-family: Arial, sans-serif; 
+	font-size: 100%;
+}
+h1 { 
+	color: white;
+	background-color: #0F2D9C;
+	border-radius: 10px;
+	text-align: center;
+}
+h3 { 
+	color: black; 
+	padding-left: 15px;
+}
+td {
+	padding: 5px;
+	border: 1px solid black;
+	color: black; 
+}
+table {
+	border-collapse: collapse;
+}
+p {
+	color: black;
+}
+a {
+	color: black;
+}
